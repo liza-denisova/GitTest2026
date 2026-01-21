@@ -95,8 +95,8 @@
             // 
             this.checkBox3.AutoSize = true;
             this.checkBox3.Location = new System.Drawing.Point(617, 158);
-            this.checkBox3.Name = "variants3";
-            this.checkBox3.Size = new System.Drawing.Size(80, 17);
+            this.checkBox3.Name = "checkBox3";
+            this.checkBox3.Size = new System.Drawing.Size(69, 17);
             this.checkBox3.TabIndex = 6;
             this.checkBox3.Text = "variants3";
             this.checkBox3.UseVisualStyleBackColor = true;
@@ -105,7 +105,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1040, 503);
             this.Controls.Add(this.checkBox3);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.checkBox1);
